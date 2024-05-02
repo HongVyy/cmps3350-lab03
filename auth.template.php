@@ -4,6 +4,7 @@
 // 2: create a GitHub Personal Access Token (fine-grained)
 //      token name: cmps 3350 lab 03
 //      expiration: 30 days
+
 //      description: used for accessing GitHub REST API in lab 03
 //      Repository access: public repositories (read-only)
 // 3: Enter your PAT and your GitHub username in the auth.php file that 
